@@ -12,15 +12,15 @@ A small set of hands-on assignments on NodeJS for interview candidates.
     During evaluation, points are given also to approach if the solution is not complete.
 
 ### Mandatory questions
-####1. Create an express app to serve a html file "app.html" that displays `"Hello Cloudronics!"`
-####2. modify app.html to show a login form with username and password, and a button "test authentication"(can hard code the signup info)
-####3. create an express route to authenticate username and passowrd. use sqlite for databases (use JWT for authentication)
-####4. hide login form and show logout button on login success
-####5. create a route that can be accessed only by an autheticated user. Access the route on clicking "test authentication". Alert success, if the user is logged in.
-####6. logout and click "test authentication" to show "failure"
+#### 1. Create an express app to serve a html file "app.html" that displays `"Hello Cloudronics!"`
+#### 2. modify app.html to show a login form with username and password, and a button "test authentication"(can hard code the signup info)
+#### 3. create an express route to authenticate username and passowrd. use sqlite for databases (use JWT for authentication)
+#### 4. hide login form and show logout button on login success
+#### 5. create a route that can be accessed only by an autheticated user. Access the route on clicking "test authentication". Alert success, if the user is logged in.
+#### 6. logout and click "test authentication" to show "failure"
 
 ### optional questions:
-7. dockerize the whole app
-8. create an image upload functionality to store the uploaded image in /tmp => image size should be square, so you may need to implement cropping
-9. Feel free to show your UI skills on the login page.,Responsive,animations,pop-ups etc., 
+#### 7. dockerize the whole app
+#### 8. create an image upload functionality to store the uploaded image in /tmp => image size should be square, so you may need to implement cropping
+#### 9. Feel free to show your UI skills on the login page.,Responsive,animations,pop-ups etc., 
 
